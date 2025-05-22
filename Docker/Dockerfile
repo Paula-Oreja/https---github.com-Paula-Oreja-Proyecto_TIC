@@ -1,0 +1,10 @@
+FROM openjdk:21-slim
+
+WORKDIR /app
+
+COPY Fifa.java .
+
+RUN javac Fifa.java
+
+CMD ["sh", "-c", "java Fifa; sleep 30"]
+
