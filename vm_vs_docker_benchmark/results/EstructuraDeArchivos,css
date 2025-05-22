@@ -1,0 +1,16 @@
+Proyecto_TIC/
+│
+├── docker/
+│   ├── Dockerfile
+│   └── Fifa.java
+│
+├── docs/
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── 4.png
+│   ├── EstructuraDeArchivos.css
+│   ├── resultados.md
+│   └── vm-instrucciones.md
+│
+└── README.md
